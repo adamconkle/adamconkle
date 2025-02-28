@@ -14,10 +14,15 @@
 
 
 ### 🔝 Top Repositories
-![Boggle Game](https://adamconkle.github.io/bogglegame/)
-![Tip Calculator](https://adamconkle.github.io/tipcalculator/)
-![Scorekeeper](https://adamconkle.github.io/scorekeeper/)
-![Color Picker](https://adamconkle.github.io/colorpicker/)
+
+<a href="https://adamconkle.github.io/bogglegame/">Boggle Game</a>
+
+<a href="https://adamconkle.github.io/tipcalculator/">Tip Calculator</a>
+
+<a href="https://adamconkle.github.io/scorekeeper/">Scorekeeper</a>
+
+<a href="https://adamconkle.github.io/colorpicker/">Color Picker</a>
+
 
 
   ## 💰 You can support me by Donating
