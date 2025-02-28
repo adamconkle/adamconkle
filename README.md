@@ -1,5 +1,5 @@
 #   About Me:
-🌍  I'm based the in United States<br>🖥️  See my portfolio at https://adamconkle.com/<br>✉️  You can contact me at ""<br>🚀  Pacific 33 Media https://pacific33media.com<br>🚀 
+🌍  I'm based the in United States<br>🖥️  See my portfolio at https://adamconkle.com/<br>🚀  Pacific 33 Media https://pacific33media.com<br> ✉️  You can contact me at ""<br>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdamCDesigns) 
@@ -14,7 +14,10 @@
 
 
 ### 🔝 Top Projects
-![](https://github-contributor-stats.vercel.app/api?username=WebdevShefali&limit=5&theme=darcula&combine_all_yearly_contributions=true)
+[![](https://adamconkle.github.io/bogglegame/)
+[![](https://adamconkle.github.io/tipcalculator/)
+[![](https://adamconkle.github.io/scorekeeper/)
+[![](https://adamconkle.github.io/colorpicker/)
 
 
   ## 💰 You can support me by Donating
