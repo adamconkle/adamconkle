@@ -23,7 +23,7 @@
 
 <a href="https://adamconkle.github.io/buyusa/">Buy USA</a>
 
-<a href="https://adamconkle.github.io/tipcalculator/">Tip Calculator</a>
+<a href="https://adamconkle.github.io/minttipper/">Tip Calculator</a>
 
 <a href="https://adamconkle.github.io/scorekeeper/">Scorekeeper</a>
 
