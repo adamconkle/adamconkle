@@ -15,6 +15,10 @@
 
 ### 🔝 Top Repositories
 
+<a href="https://adamconkle.github.io/scorekeeper/">Scorekeeper</a>
+
+<a href="https://adamconkle.github.io/millionorpenny/">Choose $1M or 1 Penny doubled for 30 days</a>
+
 <a href="https://adamconkle.github.io/mixtape/">80's Mixtape Creator</a>
 
 <a href="https://adamconkle.github.io/bogglegame/">Boggle Game</a>
@@ -24,8 +28,6 @@
 <a href="https://adamconkle.github.io/buyusa/">Buy USA</a>
 
 <a href="https://adamconkle.github.io/tip-calculator/">Tip Calculator</a>
-
-<a href="https://adamconkle.github.io/scorekeeper/">Scorekeeper</a>
 
 <a href="https://adamconkle.github.io/colorpicker/">Color Picker</a>
 
