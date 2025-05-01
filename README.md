@@ -1,5 +1,6 @@
 #   About Me:
-🌍  I'm based in the United States<br>🖥️  See my portfolio at https://adamconkle.com/<br>🚀  Pacific 33 Media https://pacific33media.com<br> ✉️  You can contact me on X @AdamCDesigns<br>
+🌍  I'm based in the United States<br>🖥️  See my portfolio at https://adamconkle.com/<br>🚀  Pacific 33 Media https://pacific33media.com<br> ✉️  You can contact me on X 
+<a href="https://x.com/AdamCDesigns">@AdamCDesigns</a><br>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdamCDesigns) 
