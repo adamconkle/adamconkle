@@ -20,7 +20,7 @@ Web Developer
                   
 <p align="left"> <a href="https://www.codepen.io/adamconkle" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/adamconkle" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aconkle" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/adamcdesigns" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
@@ -36,13 +36,14 @@ Web Developer
 
 <div width="100%" align="center"><a href="https://github.com/adamconkle/scorekeeper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamconkle&repo=scorekeeper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/adamconkle/tip-calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamconkle&repo=tip-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
 
-</br>
 
-<div width="100%" align="center"><a href="https://github.com/adamconkle/bogglegame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamconkle&repo=bogglegame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/adamconkle/mathquest" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamconkle&repo=mathquest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/adamconkle/bogglegame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamconkle&repo=bogglegame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/adamconkle/mathquest" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamconkle&repo=mathquest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div> <br>
 
 
 ### Support Me
 
+
 <ul style="list-style-type: none; margin: 0;">
-  <li style="display: inline-block; margin-right: 0.25rem; list-style-type: none;"><a href="https://www.buymeacoffee.com/adamcdesigns"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+  <li style="display: inline-block; list-style-type: none;"><a href="https://www.buymeacoffee.com/adamcdesigns"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
