@@ -33,11 +33,15 @@ Mobile & Web Developer
 <a href="https://github.com/adamconkle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamconkle&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
-<a href="https://github.com/adamconkle/justsayno"</a>
-<a href="https://github.com/adamconkle/scorekeeper"</a>
-<a href="https://github.com/adamconkle/tip-calculator"</a>
-<a href="https://github.com/adamconkle/bogglegame"</a>
-<a href="https://github.com/adamconkle/mathquest"</a>
+<ul>
+<li>https://github.com/adamconkle/justsayno</li>
+<li>https://github.com/adamconkle/scorekeeper</li>
+<li>https://github.com/adamconkle/mixtape</li>
+  <li>https://github.com/adamconkle/qr</li>
+<li>https://github.com/adamconkle/tip-calculator</li>
+<li>https://github.com/adamconkle/bogglegame</li>
+<li>https://github.com/adamconkle/mathquest</li>
+</ul>
 
 
 
